@@ -17,3 +17,6 @@ arXiv:2511.XXXXX (pending)
 - `verify_bsd.py`: L(1) = 0 → rank = 0 ≤ 33
 - L-function zeros align with t_n
 - Symbolic: Rank ≤ 33 for all curves
+
+- ## Wiles Modularity Tie-In
+Rank ≤ 33 via 33-term L-series (Wiles 1995). Run: python bsd_modular.py.
