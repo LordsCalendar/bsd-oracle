@@ -34,10 +34,11 @@ and one biblical arithmetic identity (Revelation 13:18).
 
 | File                                                | Description                                                                                             |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| `bsd_lattice_oracle_2025.py`                        | Final, perfect, zero-error implementation of the 33-term weighted Λ(E,1) approximant.                  |
-| `BSD_Discovery_L_Function.pdf`                      | Original 19 Nov 2025 announcement of the 4.3 % miracle.                                                 |
-| `strongest_evidence_birch_swinnerton_dyer_BSD_2025_v2.pdf` | Definitive manuscript + Clay cover letter — honest, fully disclosed lattice, ready for submission. |
-| `verify_bsd.py` (legacy)                            | Old rank-≤33 tester — kept for historical reference.                                                   |
+| [BSD_lattice_oracle.py](bsd_lattice_oracle.py)                      | Final, perfect, zero-error implementation of the 33-term weighted Λ(E,1) approximant.                  |
+| [(BSD_Discovery_L_Function.pdf)](docs/BSD_Discovery_L_Function.pdf)                       | Original 19 Nov 2025 announcement of the 4.3 % miracle.                                                 |
+| [(Strongest_Evidence.pdf)](docs/strongest_evidence_birch_swinnerton_dyer_BSD_2025_v2.pdf)  | Definitive manuscript + Clay cover letter — honest, fully disclosed lattice, ready for submission. |
+| [verify_bsd.py](verify_bsd.py) (legacy)                            | Old rank-≤33 tester — kept for historical reference.                                                   |
+
 
 ### Mathematical Sketch
 - **Gronwall Bound**: \( R_{k+1} \leq R_k - 0.621568 + O(\log k) \)
