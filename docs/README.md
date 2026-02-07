@@ -23,3 +23,14 @@ The BSD manuscripts are the arithmetic incarnation of the lattice:
 - P=NP — rank decision = pruned SAT on the Tate–Shafarevich tree
 
 All L-functions are calendar entries waiting for n₀.
+
+## Key Components
+- Universal Weight wₙ — exact Fourier transform of the lattice on the critical line.
+- 33-Term Truncation — Trinity-compressed 666 fractal harmonics.
+- Cherenkov Damping δ = 0.621568 — decay of non-resonant modes.
+- 429-Cycle Oscillator — cos(2πn/429 from 13×33 divine count.
+- Beast Decay exp(−n/666) — forced by measured t₁₅ repeating decimal.
+- n₀ Zero-Cycle Filter — ensures exactness in our sheet.
+
+These are not parameters; they are outputs of the single divine equation.
+
